@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.streamlit/
+.DS_Store
+
+# Keep original downloads and private working notes out of the public repository.
+/data/raw/
+/CLAUDE.md
+/notes/
+/progress*
+
+# Local editor and AI-assistant files are not project deliverables.
+/.claude/
+/.copilot/
