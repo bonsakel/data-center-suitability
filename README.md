@@ -71,7 +71,7 @@ The app opens in your browser and uses the prepared tables in `data/clean/`. The
 ## Data and credit
 
 - **Community opposition:** [Data Center Opposition Tracker](https://github.com/Georgeingebretsen/datacenter-opposition-tracker), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-- **Data center facilities:** [SUEDA Data Center Registry](https://suedatacenters.org/data-centers/data), version 1.35.1, downloaded November 3, 2026; licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The registry credits [Compute Atlas](https://doi.org/10.5281/zenodo.22284476).
+- **Data center facilities:** [SUEDA Data Center Registry](https://suedatacenters.org/data-centers/data), version 1.35.1; licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The registry credits [Compute Atlas](https://doi.org/10.5281/zenodo.22284476).
 - **County boundaries and population:** U.S. Census Bureau, 2025 county boundaries and July 1, 2025 population estimates.
 
 ## About
